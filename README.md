@@ -1,4 +1,4 @@
 # first_repo
 This is my first repository.
 <br>
-Author - Het Suthar.
+Author - Suthar Het.
